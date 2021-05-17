@@ -1,0 +1,9 @@
+{
+    "token": "token-here" ,
+    "password": "password-here", 
+    "prefix": ">",  
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true, 
+    "privnote_sniper": true
+}
