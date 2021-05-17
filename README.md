@@ -21,3 +21,5 @@ You can only set it as "True" or "False"
 DO NOT TOUCH ANYTHING ELSE IN THE SETTINGS FILE OR YOU WILL BREAK THE SELFBOT!
 
 btw the password is not needed, it's just something for profile pictures so it can change it for you.
+
+![Screenshot_2](https://user-images.githubusercontent.com/84356688/118567534-dd79d700-b76d-11eb-8068-31693124ae71.png)
