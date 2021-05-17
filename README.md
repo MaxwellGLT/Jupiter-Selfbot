@@ -5,7 +5,7 @@ How to install
 Download the file.
 
 1. Extract Jupiter Selfbot.rar
-2. Get your token by searching up in the interent or https://github.com/FOCI-DEV/Get-Discord-Token
+2. Get your token by searching up on the interent on how to get it or https://github.com/FOCI-DEV/Get-Discord-Token
 3. Put your token inside of settings.json where the "token-here" is.
 4. Go to "! INSTALL REQUIREMENTS FIRST" Folder and open the install.bat file (It's 100% safe you can check the code)
 5. Then open up launcher.bat (100% safe again you can check the code!)
